@@ -1,0 +1,23 @@
+# Данные — учебные датасеты Практикума, не публикуем
+data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+old_versions/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+.claude/old_versions/
+old_versions/
+.claude/
+.claude/
